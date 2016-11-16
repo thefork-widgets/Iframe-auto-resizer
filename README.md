@@ -1,5 +1,5 @@
 # Iframe-auto-resizer
-Automatically fit iframe height and width around inner content
+Automatically fit iframe height and width around inner content. Adapts to outer webdesign without problem and works in IOS10.
 
 Use javascript from: http://davidjbradshaw.github.io/iframe-resizer/
 
