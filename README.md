@@ -7,4 +7,4 @@ Use javascript from: http://davidjbradshaw.github.io/iframe-resizer/
 
 2. Take all code from iframeResizer.min.js. Paste into the restaurant website HEADER tags.
 
-3. Take all code from iframeResizer.contentWindow.min.js. Past into The Fork Manager -> Booking Module -> Personalise your module -> Google Analytics. Save.
+3. Take all code from iframeResizer.contentWindow.min.js. Paste into The Fork Manager -> Booking Module -> Personalise your module -> Google Analytics. Save.
