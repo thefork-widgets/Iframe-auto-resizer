@@ -3,7 +3,7 @@ Automatically fit iframe height and width around inner content. Adapts to outer 
 
 Use javascript from: http://davidjbradshaw.github.io/iframe-resizer/
 
-1. Use widget code in widget.html
+1. Use widget code in widget.html, dont forget to replace with correct restaurant URL.
 
 2. Take all code from iframeResizer.min.js. Put it in the restaurant website header tags. Use <script> </script> around the code!
 
