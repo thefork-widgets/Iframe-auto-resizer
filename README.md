@@ -7,4 +7,3 @@ Automatically fit iframe height and width around inner content. Adapts to outer 
 
 Javascript code is from: http://davidjbradshaw.github.io/iframe-resizer/
 
-Live ex: http://www.laziza.se/restaurang/
